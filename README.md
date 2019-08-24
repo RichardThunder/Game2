@@ -1,2 +1,1 @@
-# Game2
-FlappyBird
+# FlappyBird
